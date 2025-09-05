@@ -1,6 +1,6 @@
 # ABC Mart: Q1 2019 Sales & Profitability Analysis
 
-![Final Dashboard](dashboard.pdf)
+![Final Dashboard](Images/Dashboard.jpg)
 
 > This project is an end-to-end analysis of supermarket sales data performed entirely within Microsoft Excel. The primary goal was to transform raw transactional data into a dynamic, interactive dashboard that reveals key business insights and provides a clear, data-driven recommendation.
 
