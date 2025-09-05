@@ -27,7 +27,7 @@ To analyze three months of sales data from the fictional supermarket chain, ABC 
 The project followed a structured data analysis workflow to ensure accuracy and clarity in the final presentation.
 
 ### 1. Data Cleaning and Preparation
-The raw dataset was loaded into Power Query for robust cleaning. Key transformations included correcting data types for dates and times, standardizing column names, and creating a new "Hour" column to enable time-based analysis.
+The raw dataset was loaded into Power Query for robust cleaning. Key transformations included correcting data types for dates and times, standardizing column names, and enabling time-based analysis.
 
 ![Data Cleaning in Power Query](Images/datacleaning.png)
 
