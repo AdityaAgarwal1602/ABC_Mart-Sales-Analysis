@@ -63,4 +63,4 @@ This strategy directly leverages the key insights from the data to create an act
 
 ## 🚀 How to Interact with the Project
 
-You can download the full Excel workbook [by clicking here](https://github.com/YourUsername/YourRepo/blob/main/Supermarket%20Sales%20Analysis.xlsx?raw=true) to explore the interactive dashboard and the underlying analysis.
+You can download the full Excel workbook [by clicking here](https://github.com/AdityaAgarwal1602/ABC_Mart-Sales-Analysis/blob/main/Supermarket%20Sales%20Analysis.xlsx?raw=true) to explore the interactive dashboard and the underlying analysis.
